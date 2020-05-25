@@ -1,0 +1,2 @@
+# Call-Data-Record-Analysys
+This repository contains an analysis of a telecommunication dataset from the Telecom Italia first edition of the Big Data Challenge contest which was designed to stimulate the creation and development of innovative technological ideas in the Big Data field. Exhaustive description and information about the data can be obtained from this link. Due to our limitation on resources, we limited our analysis to the sms-call-internet-mi-2013-11-01.txt file. Analysis steps are outlined as observed from the table of contents above.
